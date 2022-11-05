@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/mrdiwakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrdiwakar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/diwakar.ray.146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diwakar ray" height="30" width="40" /></a>
 <a href="https://instagram.com/_di_wa_kar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_di_wa_kar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/channel/uc--qtz5gillgt7fvzyqd-7w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/uc--qtz5gillgt7fvzyqd-7w" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UC--qTZ5giLlgt7fvZyqD-7w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/uc--qtz5gillgt7fvzyqd-7w" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
