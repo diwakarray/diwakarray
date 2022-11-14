@@ -35,3 +35,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diwakarray&show_icons=true&locale=en" alt="diwakarray" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diwakarray&" alt="diwakarray" /></p>
+
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Diwakarray&theme=dark" alt="Diwakarray" /></p>
+  </div>
+
+ [![Diwakarray's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Diwakarray&theme=xcode)](https://git.io/Diwakarray)
+   
+   
+
+[![GitHub followers](https://img.shields.io/github/followers/Diwakarray.svg?style=social&label=Follow)](https://github.com/Diwakarray?tab=followers)
